@@ -1,0 +1,5 @@
+Các thư viện cần tải:
+opencv-python
+numpy
+requests
+ultralytics
